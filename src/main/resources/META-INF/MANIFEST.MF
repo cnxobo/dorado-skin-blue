@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Vendor: www.BSTEK.com
+Implementation-Title: dorado-skin-qihuolan
+Implementation-Version: 1.0.39
+
